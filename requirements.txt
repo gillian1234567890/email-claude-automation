@@ -1,1 +1,9 @@
 # Project dependencies
+playwright
+flask
+pandas
+requests
+msal
+openpyxl
+python-dotenv
+gunicorn
